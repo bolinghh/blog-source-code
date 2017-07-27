@@ -84,7 +84,6 @@ deploy:
 #Backup
 backup:
  type: git
- message: NewCommit!
  theme: next
  repository: 
-  git: git@github.com:bolinghh/bolinghh.github.io.git
+  github: git@github.com:bolinghh/bolinghh.github.io.git
