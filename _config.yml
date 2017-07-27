@@ -86,4 +86,4 @@ backup:
  type: git
  message: NewCommit!
  theme: next
- repo: git@github.com:bolinghh/bolinghh.github.io.git
+ repository: git@github.com:bolinghh/bolinghh.github.io.git
