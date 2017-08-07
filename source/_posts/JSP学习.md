@@ -1,7 +1,9 @@
-﻿# JSP学习
-
-标签： Java
-
+﻿---
+title: JSP学习
+categories: JavaScript
+tags:
+ - Jsp
+ - 日常学习
 ---
 
 <% %>
